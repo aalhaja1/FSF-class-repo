@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Student Bio</title>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+    <div class="container1">
+        <a href="index.html" id="student name">Ali Alhajami</a>
+        <nav>
+            <a href="index.html" id="about me">About me</a>
+            <a href="portfolio.html" id="second tab">portfolio</a>
+            <a href="contact.html" id="contacts">Contacts</a>
+        </nav>
+    </div>
+        <div class="container4">
+            <section class="censec">
+                <h2>Portfolio</h2>
+                    <div class="imgsec">
+                    
+                        <img src="http://placehold.it/200x200" alt="image1" id="hangman1">
+                        <h3>Hangman</h3>
+                    </div>
+            </section>
+        </div>
+        
+
+
+
+
